@@ -1,0 +1,99 @@
+Privacy Policy
+
+Last Updated: 2025-12-31
+
+This Privacy Policy explains how this Discord bot (“the Bot”) collects, uses, stores, and protects data. By using the Bot, you agree to this Privacy Policy.
+
+1. Information We Collect
+
+The Bot collects only the minimum data required for functionality. This may include:
+
+Discord User IDs
+
+Discord Server (Guild) IDs
+
+Channel IDs
+
+Command usage and interaction metadata
+
+Configuration data specific to a server
+
+The Bot does not collect:
+
+Message content (unless explicitly required for a feature)
+
+Passwords, tokens, or authentication credentials
+
+Personal information outside of what Discord provides via its API
+
+2. How We Use Data
+
+Collected data is used solely to:
+
+Provide core Bot functionality
+
+Store server or user preferences
+
+Enable moderation or administrative features (if applicable)
+
+Debug, maintain, and improve the Bot
+
+Data is never used for advertising, tracking, or profiling.
+
+3. Data Storage & Retention
+
+Data is stored only as long as necessary for the Bot to function.
+
+Temporary data may be cached and automatically cleared.
+
+Server-specific data is removed when the Bot is removed from a server, where technically feasible.
+
+4. Data Sharing
+
+The Bot does not sell, rent, or share collected data with third parties.
+
+Data is not disclosed except when required by law or legal process.
+
+5. User Rights & Control
+
+You may:
+
+Request deletion of server-specific data by removing the Bot from your server
+
+Contact the Bot owner to request clarification or data removal (where applicable)
+
+Note: Discord itself controls and processes data independently under its own Privacy Policy.
+
+6. Security
+
+Reasonable measures are taken to protect stored data, including:
+
+Limited data collection
+
+Restricted access to systems
+
+Secure handling of credentials and secrets
+
+However, no system can be guaranteed to be 100% secure.
+
+7. Compliance With Discord Policies
+
+This Privacy Policy is designed to comply with:
+
+Discord Terms of Service
+
+Discord Developer Terms
+
+Discord API and Data Handling Policies
+
+8. Changes to This Policy
+
+This Privacy Policy may be updated at any time. Continued use of the Bot after changes are posted constitutes acceptance of the revised policy.
+
+9. Contact
+
+If you have questions, concerns, or data requests, contact:
+
+Discord: russianhelmet_
+
+GitHub: Open an issue in this repository
